@@ -12,7 +12,7 @@ To address these requirements, we designed and implemented a robust database sch
 ## Installation
 To run the project, follow the link below:
 
-[My Basecamp 2](https://myappbasecamp-2-dry-water-367.fly.dev/)
+[My Basecamp 2](https://mybasecampv2.fly.dev/)
 
 ## Usage
 Once the application is running, users can perform the following actions:
@@ -28,7 +28,7 @@ Once the application is running, users can perform the following actions:
 
 Please note that certain actions, such as editing or deleting messages, may only be available to users with specific roles or permissions.
 
-[My Basecamp 2](https://myappbasecamp-2-dry-water-367.fly.dev/)
+[My Basecamp 2](https://mybasecampv2.fly.dev/)
 
 ### The Core Team
 UWABOR COLLINS <legendarycolins@yahoo.com>
